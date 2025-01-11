@@ -1,0 +1,9 @@
+dependencies:
+  - jupyter
+  - numpy
+  - matplotlib
+  - pillow
+  - requests
+  - scikit-learn
+  - torch
+  - tqdm
