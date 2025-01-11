@@ -9,5 +9,5 @@ dependencies:
   - pillow
   - requests
   - scikit-learn
-  - torch
+  - pytorch
   - tqdm
